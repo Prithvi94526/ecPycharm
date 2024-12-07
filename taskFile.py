@@ -9,4 +9,6 @@ def factorial(n):
             toReturn *= n
             n -= 1
         return toReturn
+    #1222
+
 print(factorial(5))
